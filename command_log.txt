@@ -3,3 +3,4 @@ knowledge_repo --repo /home/harterrt/Documents/rtmo preview examples/triangle
 knowledge_repo --repo /home/harterrt/Documents/rtmo add --update Draw a triangle.ipynb --path examples/triangle
 knowledge_repo --repo /home/harterrt/Documents/rtmo add triangles.Rmd --path examples/triangle_rmd
 knowledge_repo --repo /home/harterrt/Documents/rtmo preview examples/triangle_rmd
+knowledge_repo --repo /home/harterrt/Documents/rtmo add --update triangles.Rmd --path examples/triangle_rmd

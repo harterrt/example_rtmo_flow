@@ -1,3 +1,3 @@
-require('rmarkdown')
+suppressPackageStartupMessages(library('rmarkdown'))
 
 render('triangles.Rmd')
